@@ -1,0 +1,19 @@
+{
+  "name": "connect-socket.io",
+  "version": "1.0.0",
+  "description": "connecting socket with the database",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Tariqule",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "mongojs": "^2.6.0",
+    "nodemon": "^1.19.2",
+    "react-d3-speedometer": "^0.7.1",
+    "socket.io": "^2.3.0"
+  }
+}
